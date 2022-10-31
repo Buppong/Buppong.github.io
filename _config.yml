@@ -10,6 +10,7 @@
 ############################
 url: "https://buppong.github.io/"
 published: true
+future: true
 # Name of website
 title: Buppongblog
 
