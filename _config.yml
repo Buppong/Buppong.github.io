@@ -9,8 +9,10 @@
 # --- Required options --- #
 ############################
 url: "https://buppong.github.io/"
+published: true
 # Name of website
 title: Buppongblog
+
 
 # Your name to show in the footer
 author: changbokLee
